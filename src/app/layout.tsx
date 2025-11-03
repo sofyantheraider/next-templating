@@ -1,8 +1,8 @@
-import "@/app/globals.css";
-import Sidebar from "@/components/Sidebar";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import ThemeScript from "@/components/ThemeScript";
+import "@/styles/globals.css";
+import Sidebar from "@/layouts/Sidebar";
+import Navbar from "@/layouts/Navbar";
+import Footer from "@/layouts/Footer";
+import ThemeScript from "@/layouts/ThemeScript";
 
 export const metadata = {
   title: "Page 1 - Starter Kit | Materialize",
